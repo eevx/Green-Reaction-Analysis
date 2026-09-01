@@ -6,7 +6,7 @@ This project explores what can be learned from experimental reaction data withou
 
 The analysis uses reaction records from the **Open Reaction Database (ORD)** and focuses mainly on N-arylation and Buchwald-Hartwig type reactions. The goal was to clean and structure the reaction records, understand the distribution of experimental conditions, normalize material usage, and identify reactions that give a good balance between yield and resource consumption.
 
-Rather than building a predictive model, this project focuses on **data analysis and reaction optimization**. The final part of the analysis uses Pareto efficiency and material intensity to identify a smaller set of reactions that are both synthetically effective and comparatively resource-efficient.
+This project focuses on **data analysis and reaction optimization**. The final part of the analysis uses Pareto efficiency and material intensity to identify a smaller set of reactions that are both synthetically effective and comparatively resource-efficient.
 
 
 ## What I wanted to find out
